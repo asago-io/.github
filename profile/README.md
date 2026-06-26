@@ -1,15 +1,16 @@
 ## asago
 
-Coming soon...
+More details on asago.ai coming soon...
 
 
-<!--
+### Core Components
 
-**Here are some ideas to get you started:**
+| Repo | Description |
+|------|-------------|
+| [Policy Mapper](https://github.com/asago-ai/asago-policy-mapper) | Reads your AI policy documents and produces a structured list of identified AI risks, with evidence and cross-taxonomy mappings. Use by future downstream asago components|
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Supporting Components
+
+| Repo | Description |
+|------|-------------|
+| [Midojo](https://github.com/asago-ai/midojo) | Red-teams AI agents by hiding malicious payloads in the data they fetch, testing whether the agent takes harmful actions as a side effect of doing legitimate work. Will be orchestrated by future asago components.|
