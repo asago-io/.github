@@ -1,7 +1,10 @@
 ## asago
 
-More details on asago.ai coming soon...
+asago (AI Safety And Governance Orchestration) is an open-source community that aims to automate the journey from AI governance policy to production-ready, safely deployed AI systems — bridging the gap between compliance teams, AI engineers, and infrastructure operators.
 
+The asago project is in its formation stage, however you can check in on our development at the repos below.  As we release more, they will be added below.
+
+Find out more about asago at https://asago.ai
 
 ### Core Components
 
