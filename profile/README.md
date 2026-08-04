@@ -12,7 +12,7 @@ Find out more about asago at https://asago.ai
 |------|-------------|
 | [Policy Mapper](https://github.com/asago-ai/asago-policy-mapper) | Reads your AI policy documents and produces a structured list of identified AI risks, with evidence and cross-taxonomy mappings. Use by future downstream asago components|
 
-### Supporting Components
+### Supporting & Experimental Components
 
 | Repo | Description |
 |------|-------------|
